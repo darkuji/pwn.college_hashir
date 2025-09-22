@@ -1,7 +1,7 @@
 # Command History
-The challenge asks us to view the history of commands we have used using the up and down arrow keys
+### The challenge asks us to view the history of commands we have used using the up and down arrow keys
 
-# My Solve
+## My Solve
 
 **Flag:** pwn.college{IQYsmN_ZvnqVr9j6Bcl5zmZwa3b.0lNzEzNxwSO1EzNzEzW}
 
@@ -11,10 +11,11 @@ hacker@hello~command-history:~$ the flag is pwn.college{IQYsmN_ZvnqVr9j6Bcl5zmZw
 
 ```
 
-# What I Learned
+## What I Learned
 I learned how to access the command history used by using the up and down arrow keys
 
-# References 
+## References 
 
 None
+
 
