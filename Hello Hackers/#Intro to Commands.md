@@ -7,7 +7,7 @@
 **Flag:** pwn.college{suyhe36DbCmMPtYzb4fbLXVfYwc.QX3YjM1wSO1EzNzEzW}
 
 First i executed the 'whoami' command which gave the output as 'hacker'. After termination, it again displays
-hacker@hello~intro-to-commands:~$ after which i wrote the command 'hello' to obtain my flag.
+hacker@hello~ intro-to-commands:~$ after which i wrote the command 'hello' to obtain my flag.
 
 ```
 hacker@hello~intro-to-commands:~$ whoami
@@ -25,5 +25,6 @@ I learned how to pass basic commands to the DOJO terminal and use the 'hello' co
 ##References
 
 None
+
 
 
