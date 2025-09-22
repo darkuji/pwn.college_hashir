@@ -1,10 +1,10 @@
 # Paths Position Elsewhere
-### The challenge asks us to change the working directory to a new one 
-in order to access a program
+### The challenge asks us to change the working directory to a new one in order to access a program
 
 
 ## My Solve
 **Flag:** pwn.college{8yuh8TJtIrB-5yhziOXbtnt0H3s.QX3QTN0wSO1EzNzEzW}
+
 I first tried to run the /challenge/run command to know if i was in the 
 right working directory which i wasn't. Then i used the cd command to 
 enter into the /var directory and then run /challenge/run command
@@ -31,3 +31,4 @@ the Linux environment to access new directories and programs within it
 
 
 ## References
+
