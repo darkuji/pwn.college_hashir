@@ -3,7 +3,7 @@
 
 
 ## My Solve
-**Flag:**pwn.college{oGichVd-zhUCH4udIAHUFZiEd-0.QXxUTN0wSO1EzNzEzW}
+**Flag:** pwn.college{oGichVd-zhUCH4udIAHUFZiEd-0.QXxUTN0wSO1EzNzEzW}
 I first changed the current working directory to /challenge using the cd command
 and then I used the './' operator before mentioning the relative path of the 
 file 'run' as Linux does not accept 'naked' paths in the cwd
@@ -24,4 +24,5 @@ directory we must use the './' prefix as it avoids the execution of files in
 the cwd that have the same name as that of files in the core system utilities
 
 ## References
+
 None
