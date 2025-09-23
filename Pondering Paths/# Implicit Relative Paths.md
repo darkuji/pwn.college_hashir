@@ -3,7 +3,7 @@
 
 
 ## My Solve
-**Flag:**pwn.college{A8g6WUksVGM6qsbPcFn2bhso93e.QX5QTN0wSO1EzNzEzW}
+**Flag:** pwn.college{A8g6WUksVGM6qsbPcFn2bhso93e.QX5QTN0wSO1EzNzEzW}
 I first used the 'cd' command to change my working directory to /, then i used the challenge/run
 statement to get the flag as that is the relative path of the file in the directory '/'
 
@@ -25,4 +25,5 @@ not having to refer to its entire location repeatedly
 
 
 ## References
+
 None
