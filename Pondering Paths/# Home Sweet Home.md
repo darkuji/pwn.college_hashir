@@ -3,7 +3,7 @@
 
 
 ## My Solve
-**Flag:**pwn.college{kDHPFlgBtHRd35QYm_VcRiGuEJe.QXzMDO0wSO1EzNzEzW}
+**Flag:** pwn.college{kDHPFlgBtHRd35QYm_VcRiGuEJe.QXzMDO0wSO1EzNzEzW}
 I first changed the directory to home using the 'cd' command then i used the 
 /challenge/run command with the argument as /a which is the file in which
 my flag would be written and stored
@@ -24,4 +24,5 @@ path in a Linux environment
 
 
 ## References
+
 None
