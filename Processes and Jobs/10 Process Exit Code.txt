@@ -1,0 +1,27 @@
+# Process Exit Code
+### The challenge asks us to retrieve the exit code of a process
+
+
+## My Solve
+**Flag:** pwn.college{sS94LdKEusa8Zqitc-j7-qcoWw3.QX5YDO1wSO1EzNzEzW}
+Used /challenge/get-code to generate an exit code after which i used 
+echo $? to print the exit code on the terminal after which i used 
+/challenge/submit-code with the exit code (205) as the argument to
+obtain the flag
+
+
+```
+hacker@processes~process-exit-codes:~$ /challenge/get-code
+Exiting with an error code!
+hacker@processes~process-exit-codes:~$ echo $?
+205
+hacker@processes~process-exit-codes:~$ /challenge/submit-code 205
+CORRECT! Here is your flag:
+pwn.college{sS94LdKEusa8Zqitc-j7-qcoWw3.QX5YDO1wSO1EzNzEzW}
+```
+
+## What I Learned
+I learned how to retrieve the exit code of a program using echo $?
+
+## References
+None
